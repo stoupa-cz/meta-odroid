@@ -1,4 +1,6 @@
-CURRENT STATUS: This layer is not actively maintained anymore. ODROID-C1 support is now handled in the layer https://github.com/linux-meson/meta-amlogic .
+CURRENT STATUS: This layer is not actively maintained anymore. There are other layers based on this layer. None of them is an official OE layer though (yet)...
+* https://github.com/linux-meson/meta-amlogic
+* https://github.com/akuster/meta-odroid
 
 OpenEmbedded BSP layer for hardkernel ODROID devices
 
